@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CRUD App</string>
+    <string name="title_name">CRUD App | crisaroa</string>
+    <string name="page_title">CRUD App | crisaroa</string>
+    <string name="add_patient_title">Add Patient</string>
+    <string name="close_affordance">Close affordance</string>
+    <string name="save_patient">Save</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone">Phone</string>
+    <string name="city">City</string>
+    <string name="delete">Delete</string>
+    <string name="linkedin">© www.linkedin.com/in/crisaroa</string>
+    <string name="patients">Patients</string>
+    <string name="patient">Patient</string>
+    <string name="cd_personal_information_icon">Personal information icon</string>
+    <string name="cd_contact_information_icon">Contact information icon</string>
+    <string name="cd_location_information_icon">Location information icon</string>
+    <string name="dev_name">Aroa, Cris Vincent</string>
+    <string name="dev_phone_number">+6391234567</string>
+    <string name="dev_location">Butuan City</string>
+    <string name="cd_action_icon">Action icon</string>
+    <string name="update">Update</string>
+    <string name="save">Save</string>
+</resources>
